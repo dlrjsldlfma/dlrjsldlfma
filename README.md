@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dlrjsldlfma
-- 👀 I’m interested in cubing, drones, and arduino
-- 🌱 I’m currently learning C, Python, Swift, HTML
-- 💞️ I’m looking to collaborate on nothing.....
+- 👀 I’m interested in cubing, web development, and other computer things.
+- 🌱 I’m currently learning C, Python, JavaScript, HTML
 - 📫 You can reach me w/ my email!
 
 <!---
